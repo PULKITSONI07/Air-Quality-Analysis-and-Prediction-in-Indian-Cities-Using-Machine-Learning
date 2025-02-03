@@ -2,6 +2,8 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
 # created-by: conda 25.1.1
+# This file is just for the reference of module versions
+
 _py-xgboost-mutex=2.0=cpu_0
 abseil-cpp=20230802.0=h313beb8_2
 altair=4.2.2=py39hca03da5_0
